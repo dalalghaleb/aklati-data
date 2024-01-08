@@ -322,7 +322,7 @@
     {
       "id": "r21",
       "categories": ["c6"],
-      "title": "شوربة بامية",
+      "title": "بامية",
       "imageUrl": "https://unsplash.com/photos/cToNEm70cvE/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTJ8fHNvdXB8ZW58MHx8fHwxNzAyOTI3MTc3fDA&force=true",
       "ingredients": ["بامية","طماطم","زيت نباتي","معجون طماطم","ثوم","ملح","ماء"],
       "steps": [
@@ -337,7 +337,7 @@
     {
       "id": "r22",
       "categories": ["c6"],
-      "title": "شوربة عدس",
+      "title": "عدس",
       "imageUrl": "https://unsplash.com/photos/cToNEm70cvE/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTJ8fHNvdXB8ZW58MHx8fHwxNzAyOTI3MTc3fDA&force=true",
       "ingredients": ["عدس","بصل","زيت نباتي","شعرية","فلفل اسود","كمون","ملح","ماء"],
       "steps": [
@@ -352,7 +352,7 @@
     {
       "id": "r23",
       "categories": ["c6"],
-      "title": "شوربة فاصوليا",
+      "title": "فاصوليا",
       "imageUrl": "https://unsplash.com/photos/cToNEm70cvE/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTJ8fHNvdXB8ZW58MHx8fHwxNzAyOTI3MTc3fDA&force=true",
       "ingredients": ["فاصوليا","معجون طماطم","زيت نباتي","فلفل اسود","كمون","ملح","ماء"],
       "steps": [
@@ -368,7 +368,7 @@
      {
       "id": "r24",
       "categories": ["c6"],
-      "title": "شوربة بطاطة احمر",
+      "title": "بطاطة احمر",
       "imageUrl": "https://unsplash.com/photos/cToNEm70cvE/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTJ8fHNvdXB8ZW58MHx8fHwxNzAyOTI3MTc3fDA&force=true",
       "ingredients": ["بطاطة","معجون طماطم","طماطم","بصل","فلفل اخضر","زيت نباتي","فلفل اسود","كمون","ملح","ماء"],
       "steps": [
@@ -385,7 +385,7 @@
     {
       "id": "r25",
       "categories": ["c6"],
-      "title": "شوربة بطاطة اصفر",
+      "title": "بطاطة اصفر",
       "imageUrl": "https://unsplash.com/photos/cToNEm70cvE/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTJ8fHNvdXB8ZW58MHx8fHwxNzAyOTI3MTc3fDA&force=true",
       "ingredients": ["بطاطة","كاري","كركم","بصل","فلفل اخضر","زيت نباتي","فلفل اسود","كمون","ملح","ماء"],
       "steps": [
@@ -402,7 +402,7 @@
      {
       "id": "r26",
       "categories": ["c6"],
-      "title": "شوربة حمص ابيض",
+      "title": "حمص ابيض",
       "imageUrl": "https://unsplash.com/photos/cToNEm70cvE/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTJ8fHNvdXB8ZW58MHx8fHwxNzAyOTI3MTc3fDA&force=true",
       "ingredients": ["حمص","كاري","بصل","فلفل اخضر","زيت نباتي","فلفل اسود","ملح","ماء"],
       "steps": [
@@ -419,7 +419,7 @@
     {
       "id": "r27",
       "categories": ["c6"],
-      "title": "شوربة حمص احمر",
+      "title": "حمص احمر",
       "imageUrl": "https://unsplash.com/photos/cToNEm70cvE/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTJ8fHNvdXB8ZW58MHx8fHwxNzAyOTI3MTc3fDA&force=true",
       "ingredients": ["حمص","معجون طماطم","بصل","فلفل اخضر","زيت نباتي","فلفل اسود","ملح","ماء"],
       "steps": [
@@ -436,7 +436,7 @@
     {
       "id": "r28",
       "categories": ["c6"],
-      "title": "شوربة فاصوليا اخضر",
+      "title": "فاصوليا اخضر",
       "imageUrl": "https://unsplash.com/photos/cToNEm70cvE/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTJ8fHNvdXB8ZW58MHx8fHwxNzAyOTI3MTc3fDA&force=true",
       "ingredients": ["فاصوليا اخضر","معجون طماطم","بصل","معجون طماطم","زيت نباتي","ثوم","فلفل اسود","ملح","ماء"],
       "steps": [
@@ -454,7 +454,7 @@
     {
       "id": "r29",
       "categories": ["c6"],
-      "title": "شوربة باذنجان",
+      "title": "باذنجان",
       "imageUrl": "https://unsplash.com/photos/cToNEm70cvE/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTJ8fHNvdXB8ZW58MHx8fHwxNzAyOTI3MTc3fDA&force=true",
       "ingredients": [" باذنجان","معجون طماطم","بصل","معجون طماطم","زيت نباتي","طماطم","فلفل اسود","دارسين","كمون","ملح","ماء"],
       "steps": [
@@ -471,7 +471,7 @@
      {
       "id": "r30",
       "categories": ["c6"],
-      "title": "شوربة الشجر",
+      "title": "الشجر",
       "imageUrl": "https://unsplash.com/photos/cToNEm70cvE/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTJ8fHNvdXB8ZW58MHx8fHwxNzAyOTI3MTc3fDA&force=true",
       "ingredients": [" شجر","معجون طماطم","بصل","معجون طماطم","زيت نباتي","طماطم","فلفل اسود","دارسين","كمون","ملح","ماء"],
       "steps": [
